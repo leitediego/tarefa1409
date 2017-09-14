@@ -5,14 +5,14 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giovanebarcelos/tarefas.git"
+    "url": "git+https://github.com/leitediego/tarefa1409.git"
   },
   "author": "Giovane Barcelos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/giovanebarcelos/tarefas/issues"
+    "url": "https://github.com/leitediego/tarefa1409/issues"
   },
-  "homepage": "https://github.com/giovanebarcelos/tarefas#readme",
+  "homepage": "https://github.com/leitediego/tarefa1409#readme",
   "dependencies": {
   	"express":"*",
   	"body-parser": "*",
