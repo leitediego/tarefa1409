@@ -12,7 +12,7 @@ var clienteRedis = redis.createClient(13873,
 	'redis-10565.c9.us-east-1-2.ec2.cloud.redislabs.com:10565', 
 	{no_ready_check: true});
 
-clienteRedis.auth('password', function(err){
+clienteRedis.auth('Palmeiras1', function(err){
 	if (err) throw err;
 });
 
